@@ -5,4 +5,12 @@ This project is ceate a Web Site for Resort in the name of Kwae Resort at Kanjan
 * Layout as Global standard
 
 
-* ![The Resort Photo](resort.jpg)
+![The Resort Photo](resort.jpg)
+
+...
+xxx
+...
+
+'''
+xxx
+'''
