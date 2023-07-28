@@ -7,14 +7,11 @@ This project is ceate a Web Site for Resort in the name of Kwae Resort at Kanjan
 
 ![The Resort Photo](resort.jpg)
 
+
 ```
 class home {
 
 }
 ```
 
-'''
-class home {
 
-}
-'''
