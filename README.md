@@ -14,4 +14,6 @@ class home {
 }
 ```
 
+![The Resort Photo](Diagram.png)
+
 
